@@ -1,0 +1,3 @@
+1、ECMAScript2015（简称ES2015）2011年发布，ES5之后就开始制定6.0版本。因此ES6这个词的原意就是指JavaScript语言的下一个版本。ES6的第一个版本在2015年6月发布，而且以后每年6月分发布新的版本。
+2、依照GitHub上相关教程安装nvm。https://github.com/creationix/nvm 或者参考http://www.jianshu.com/p/f0bf432b4190 安装。Node.js是JavaScript语言的服务器运行环境，对ES6的支持度比浏览器更高。通过Node，可以体验更多ES6的特性。建议使用版本管理工具nvm，来安装Node，因为可以自由切换版本。（nvm没有windows版本）
+3、Babel转码器可将ES6编码转换成ES5编码https://babeljs.io/
